@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.yamaha_web_browser">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="Spare Parts"
         android:name="${applicationName}"
